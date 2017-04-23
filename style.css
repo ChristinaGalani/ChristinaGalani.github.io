@@ -1,0 +1,10 @@
+.crop {
+height: 350px;
+width: 350px;
+overflow: hidden;
+}
+
+.jumbotron {
+	background-color: #598C4B;
+	color: white;
+}
